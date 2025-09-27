@@ -38,4 +38,4 @@ python main.py
 
 ---
 
-Feito por Giovanni em Python!
+Desenvolvido por Giovanni Cabral
